@@ -1,0 +1,15 @@
+<!DOCTYPE HTML>
+<html>
+	<title>
+		<meta charset="utf-8">
+	</title>
+	<body>
+		<div>
+			<p>你好呀</p>
+		</div>
+
+		<div class="info">
+			<h3>我是一个例子</h3>
+		</div>
+	</body>
+</html>
